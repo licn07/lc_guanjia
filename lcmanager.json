@@ -3,7 +3,16 @@
   "versionName": "2026.10.25",
   "minVersionCode": 0,
   "changelog": "1. 修复 AI 闲聊开关默认值为 false，导致 @ 消息不回复\n2. 新增「清空部署环境」，测试时可一键回到干净状态（保留登录凭证）\n3. 更新检测接入 GitHub 静态清单，支持多源回退、每日去重、强制更新\n4. 修复日志打包无法生成 zip",
-  "downloadUrl": "https://pan.baidu.com/s/填你的网盘链接",
+  "downloads": [
+    {
+      "name": "移动云盘",
+      "url": "https://yun.139.com/shareweb/#/w/i/2rJV7GtJAta1c/*p90JUKLVJRVm:/"
+    },
+    {
+      "name": "迅雷云盘",
+      "url": "https://pan.xunlei.com/s/VOjfAF-1eQp0GgVEkeNvvICAA1?pwd=ngqb#"
+    }
+  ],
   "size": 0,
   "md5": ""
 }
